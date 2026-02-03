@@ -7,7 +7,7 @@ Location: Chicago, IL
 ## 🛠️ Core Competencies
    * Systemic Resilience: Expert in "Brittle System" theory—understanding how complex structures (physical and digital) hold together under pressure.
 
-  * Technical Instruction: Former founder of Unbroken Glass Learning Center; experienced in developing curriculum for non-accredited and workforce development programs (ICC).
+  * Technical Instruction: Former founder of a glass manufacturing company; experienced in developing curriculum for non-accredited and workforce development programs (ICC).
 
   * Web3 Operations: Proficient in DAO deployment, NFT architecture, and contribution tracking.
 
